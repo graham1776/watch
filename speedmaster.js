@@ -31,7 +31,7 @@ function drawClock() {
   drawLogo("Omega","Helvetica",0.55,0.15);
   drawLogo("Speedmaster","Times New Roman",0.45,0.10);
   drawLogo("Professional","Helvetica",0.35,0.10);
-  drawPic("","",-0.4,0);
+//   drawPic("","",-0.4,0);
   drawTime(ctx, radius);
   // drawDate(ctx, 0.15,radius * 0.5,0,font);
   drawBatons(ctx, radius,0,0,12,radius*0.04,radius*0.20)
